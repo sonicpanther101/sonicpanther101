@@ -4,6 +4,8 @@
 
 [![Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicpanther101&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicpanther101)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sonicpanther101)](https://git.io/streak-stats)
 
 <picture>
