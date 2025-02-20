@@ -2,13 +2,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/daab2500-5508-44c2-9a15-c2458e9e78d5.svg)](https://wakatime.com/@daab2500-5508-44c2-9a15-c2458e9e78d5)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonicpanther101&theme=dark)](https://git.io/streak-stats)
+
 [![Astro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonicpanther101)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Astro's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicpanther101&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicpanther101)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sonicpanther101)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonicpanther101/sonicpanther101/output/github-contribution-grid-snake-dark.svg">
