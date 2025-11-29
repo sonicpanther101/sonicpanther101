@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/daab2500-5508-44c2-9a15-c2458e9e78d5.svg)](https://wakatime.com/@daab2500-5508-44c2-9a15-c2458e9e78d5)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sonicpanther101&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonicpanther101&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 [![Astro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonicpanther101)](https://github.com/anuraghazra/github-readme-stats)
 
